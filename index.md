@@ -5,7 +5,7 @@
 ### Projects 
 
 [Cape Town Hotel Reviews](https://data-interludes.shinyapps.io/tripadvisorviz/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/app_preview.png?raw=true"/>
 
 ---
 [Exploring Bank Visits](/pdf/sample_presentation.pdf)
@@ -17,7 +17,7 @@
 
 ---
 
-### Code
+### Code Repos
 
 - [Cape Town Hotel Reviews](https://github.com/kirsh85/data_science_portfolio/tree/master/webscaping_tripadvisor)
 - [Exploring Bank Visits](https://github.com/kirsh85/data_science_portfolio/tree/master/exploring_bank_visits)
